@@ -11,5 +11,6 @@ Image Source: Shore-based fixed cameras and drones
 Scenarios: Daytime, cloudy, foggy weather conditions; includes distant, tilted, partially occluded views
 
 The SeaShips dataset used in this study is publicly available at https://github.com/jiaming-wang/SeaShips. 
+
 The TT100K traffic sign dataset is accessible at https://cg.cs.tsinghua.edu.cn/traffic-sign/. 
 
