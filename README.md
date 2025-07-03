@@ -12,5 +12,5 @@ Scenarios: Daytime, cloudy, foggy weather conditions; includes distant, tilted, 
 
 The SeaShips dataset used in this study is publicly available at https://github.com/jiaming-wang/SeaShips. 
 
-The TT100K traffic sign dataset is accessible at https://cg.cs.tsinghua.edu.cn/traffic-sign/. 
+The TT100K traffic sign dataset used in this study is publicly available at https://cg.cs.tsinghua.edu.cn/traffic-sign/. 
 
